@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <footer class="navbar-default bottom">
             <div class="container">
-                <p class="navbar-text pull-left ">Creado por Alvaro Gonzalez y Borja Unda </p>
+                <p class="navbar-text pull-left ">Creado por TZUNDA.S.A </p>
                 <a href="http://www.youtube.com" class="navbar-btn btn-danger btn pull-right btn-sm">Siguenos en youtube</a>
             </div>
             
