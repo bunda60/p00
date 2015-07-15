@@ -1,8 +1,3 @@
-<%-- 
-    Document   : diseños
-    Created on : 31-mar-2015, 17:40:47
-    Author     : Alvaro
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

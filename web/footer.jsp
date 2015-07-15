@@ -1,8 +1,4 @@
-<%-- 
-    Document   : footer
-    Created on : 31-mar-2015, 19:21:38
-    Author     : Alvaro
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
